@@ -1,0 +1,10 @@
+2016-03-06 14:03:40 -0500
+
+The time is 14:3 on 3/6/2016
+
+Try to write Env Vars..............
+GIT_HOME: ‘/usr/local/Cellar/git/2.7.1/bin’
+WEB_URL: ‘http://www.coursera.org’
+PATH: ‘/usr/local/Cellar/git/2.7.1/bin’:‘http://www.coursera.org’:/Users/stg3000/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+
+Have a great day!!!
